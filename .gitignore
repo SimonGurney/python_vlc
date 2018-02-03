@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+/.vs/slnx.sqlite
+/.vs/ProjectSettings.json
+/.vs/python_vlc/v15/.suo
